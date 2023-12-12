@@ -1,4 +1,4 @@
-**Social Media Backend App in Go**
+
 Welcome to the repository, struck share is a Social Media Backend REST based built with Go. 
 
 **Features**
