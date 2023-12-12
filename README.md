@@ -19,6 +19,9 @@ Database Setup: intialize postgres database configuration in .env and db folder,
 
 Run the application: make server
 
+
+
+
 API Endpoints
 
 Register User
