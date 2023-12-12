@@ -2,16 +2,19 @@
 Welcome to the repository, struck share is a Social Media Backend REST based built with Go. 
 
 **Features**
+___
 User Management: Register new users, handle authentication, and manage user profiles.
 Post Creation and Management: Allow users to create, edit, and delete posts.
 Comments: Enable users to engage with posts through comments.
 Like and follow: Implement features for users to express appreciation for posts and share content.
 
 **Technologies Used**
+___
 Go (Golang): The primary language used for backend development.
 Database: PostgreSQL
 
 **Setup Instructions**
+___
 Clone the repository: git clone https://github.com/your-username/social-media-backend.git
 Navigate to the project directory: cd social-media-backend
 Install dependencies: go mod init
@@ -23,6 +26,7 @@ __
 
 
 **API Endpoints**
+___
 
 Register User
 
